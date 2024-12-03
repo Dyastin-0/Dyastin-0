@@ -4,7 +4,7 @@ I'm Justine
 
 A passionate developer with an interest in building projects using modern web technologies. I have developed various projects involving React, Node.js, Express, and Socket.IO.
 
-🔨 Currently working on a project https://filmpin.dyastin.tech/about
+🔨 Currently working on a project [FileSpace](https://github.com/Dyastin-0/filespace) - A simple cloud storage.
 
 ## 📫 Contact Me
 
@@ -31,10 +31,6 @@ A passionate developer with an interest in building projects using modern web te
   <img src="https://raw.githubusercontent.com/walkxcode/dashboard-icons/main/svg/github.svg" alt="GitHub" width="30" height="30"/>
 </p>
 
-## 📈 GitHub Stats
-
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Dyastin-0&layout=compact)
-
-[![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=Dyastin-0)](https://github.com/anuraghazra/github-readme-stats)
+## Stats
 
 ![](https://komarev.com/ghpvc/?username=Dyastin-0&abbreviated=true)
