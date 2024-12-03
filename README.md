@@ -4,7 +4,7 @@ I'm Justine
 
 A passionate developer with an interest in building projects using modern web technologies. I have developed various projects involving React, Node.js, Express, and Socket.IO.
 
-🔨 Currently working on a project [FileSpace](https://github.com/Dyastin-0/filespace) - A simple cloud storage.
+🔨 Currently working on a project [Filespace](https://github.com/Dyastin-0/filespace) - A simple cloud storage.
 
 ## 📫 Contact Me
 
