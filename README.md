@@ -13,8 +13,9 @@ type Profile struct {
     Name           string
     About          string
     CurrentProject struct {
-        Name string
-        URL  string
+        Name       string
+        Repository String
+        URL        string
         Desc string
     }
     Contact []struct {
