@@ -47,13 +47,16 @@ dyastin := Profile{
     },
     Tools: map[string][]string{
         "Backend": {
-            "Node.js", "Express", "Go", "Socket.IO", "MongoDB", "Firebase", "AWS EC2", "Google Compute Engine", "Caddy",
+            "Node.js", "Express", "Go", "Socket.IO", "MongoDB", "Firebase",
         },
         "Frontend": {
             "React", "Vite", "Framer Motion", "Tailwind CSS",
         },
         "Data Fetching": {
             "SWR", "Axios",
+        },
+        "DevOps": {
+             "AWS EC2", "Google Compute Engine", "Caddy",
         },
         "Version Control": {
             "Git", "GitHub",
