@@ -1,8 +1,10 @@
 # Justine Paralejas (Dyastin)
+
 [![Portfolio](https://img.shields.io/badge/Portfolio-dyastin.tech-blue)](https://dyastin.tech)
 [![Email](https://img.shields.io/badge/Email-mail@dyastin.tech-red)](mailto:mail@dyastin.tech)
 
 ## About Me
+
 I'm a passionate developer focused on creating web applications with modern technologies.
 Currently studying at [Colegio de Montalban](https://pnm.edu.ph).
 
@@ -21,15 +23,23 @@ A video conferencing website using `Svelte` and `Go`.
 
 ![Go](https://img.shields.io/badge/-Go-00ADD8?style=flat&logo=go&logoColor=white)
 ![Node.js](https://img.shields.io/badge/-Node.js-339933?style=flat&logo=node.js&logoColor=white)
+
+###### Tools & Libraries
+
 ![Express](https://img.shields.io/badge/-Express-000000?style=flat&logo=express&logoColor=white)
 ![Socket.IO](https://img.shields.io/badge/-Socket.IO-010101?style=flat&logo=socket.io&logoColor=white)
 ![MongoDB](https://img.shields.io/badge/-MongoDB-47A248?style=flat&logo=mongodb&logoColor=white)
 ![Firebase](https://img.shields.io/badge/-Firebase-FFCA28?style=flat&logo=firebase&logoColor=black)
+![WebRTC](https://img.shields.io/badge/-WebRTC-333333?style=flat&logo=webrtc&logoColor=white)
+![WebSocket](https://img.shields.io/badge/-WebSocket-4479A1?style=flat&logo=WebSocket&logoColor=white)
 
 #### Frontend
 
 ![Svelte](https://img.shields.io/badge/-Svelte-FF3E00?style=flat&logo=svelte&logoColor=white)
 ![React](https://img.shields.io/badge/-React-61DAFB?style=flat&logo=react&logoColor=black)
+
+###### Tools & Libraries
+
 ![Vite](https://img.shields.io/badge/-Vite-646CFF?style=flat&logo=vite&logoColor=white)
 ![Framer Motion](https://img.shields.io/badge/-Framer_Motion-0055FF?style=flat&logo=framer&logoColor=white)
 ![Tailwind CSS](https://img.shields.io/badge/-Tailwind_CSS-38B2AC?style=flat&logo=tailwind-css&logoColor=white)
