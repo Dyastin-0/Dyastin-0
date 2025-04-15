@@ -10,12 +10,11 @@ Currently studying at [Colegio de Montalban](https://pnm.edu.ph).
 
 ## 🚀 Current Project
 
-#### Echos
+#### gobyte
 
-A video conferencing website using `Svelte` and `Go`.
+A local area network file sharing CLI app using `Go`.
 
-[![GitHub Repo](https://img.shields.io/badge/GitHub-Repository-green)](https://github.com/Dyastin-0/echos)
-[![Live Demo](https://img.shields.io/badge/Live-Demo-blue)](https://echos.dyastin.tech)
+[![Demo](https://img.shields.io/badge/Demo-blue)](https://github.com/Dyastin-0/gobyte/blob/master/demo/demo.gif)
 
 ## Tech Stack
 
