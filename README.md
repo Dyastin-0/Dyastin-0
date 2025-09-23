@@ -1,20 +1,17 @@
 # Justine Paralejas (Dyastin)
 
-[![Portfolio](https://img.shields.io/badge/Portfolio-dyastin.tech-blue)](https://dyastin.tech)
-[![Email](https://img.shields.io/badge/Email-mail@dyastin.tech-red)](mailto:mail@dyastin.tech)
+[![Portfolio](https://img.shields.io/badge/Portfolio-dyastin.dev-blue)](https://dyastin.dev)
+[![Email](https://img.shields.io/badge/Email-mail@dyastin.dev-red)](mailto:mail@dyastin.dev)
 
 ## About Me
 
 I'm a passionate developer focused on creating web applications with modern technologies.
-Currently studying at [Colegio de Montalban](https://pnm.edu.ph).
 
 ## 🚀 Current Project
 
-#### gobyte
+#### Wormhole
 
-A local area network file sharing CLI app using `Go`.
-
-[![Demo](https://img.shields.io/badge/Demo-blue)](https://github.com/Dyastin-0/gobyte/blob/master/demo/demo.gif)
+A TCP-based reverse tunneling written in `Go`.
 
 ## Tech Stack
 
