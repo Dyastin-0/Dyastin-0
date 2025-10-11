@@ -5,7 +5,7 @@
 
 ## About Me
 
-I'm an aspiring software engineer with a focus on systems programming and network protocols. I’m particularly interested in how applications communicate at the network protocol level. Whether it’s HTTP, TCP, UDP, or real-time communication over WebRTC, I enjoy digging into how these protocols work and building practical systems around them. Most of my projects are written in `Go`.
+I'm an aspiring software engineer with a focus on network programming. Most of my projects are written in `Go`.
 
 ## Current Project
 
