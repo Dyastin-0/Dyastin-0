@@ -12,7 +12,3 @@ I'm an aspiring software engineer with a focus on network programming. Most of m
 #### [Wormhole](https://github.com/Dyastin-0/wormhole)
 
 A TCP-based reverse tunneling.
-
-#### [Gobyte](https://github.com/Dyastin-0/gobyte)
-
-A P2P local network, file sharing CLI app.
