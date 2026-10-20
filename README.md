@@ -1,7 +1,6 @@
 # Justine Paralejas (Dyastin)
 
-[![Portfolio](https://img.shields.io/badge/Portfolio-dyastin.dev-blue)](https://dyastin.dev)
-[![Email](https://img.shields.io/badge/Email-mail@dyastin.dev-red)](mailto:mail@dyastin.dev)
+[![Portfolio](https://img.shields.io/badge/Portfolio-justineparalejas.dev-blue)](https://justineparalejas.dev)
 
 ## About Me
 
